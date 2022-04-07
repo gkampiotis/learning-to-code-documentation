@@ -11,7 +11,7 @@ This is the documentation of the process of me learning to build stuff on the in
  
   <h2>First Steps. Having fun is required.</h2>
   
-I started with [Processing](https://processing.org/) , a Java-based framework. Processing is suitable for digital media creations. At first I started learning the basics (variables, functions, etc). I followed the tutorials from [fun programming](https://funprogramming.org/) which is well made and was easy to follow along. First few weeks I was making simple drawings and mini-animations of basic shapes or text.
+I started with [Processing](https://processing.org/) , a Java-based framework. Processing is suitable for digital media creations. At first I started learning the basics (variables, functions, etc). I followed the tutorials from [fun programming](https://funprogramming.org/) which is well made and easy to follow along. First few weeks I was making simple drawings and mini-animations of basic shapes or text.
 
 ![Untitled design](https://user-images.githubusercontent.com/34453848/162248841-3ab4999d-0a3b-48d4-b6d2-bc1097651054.gif)
 
