@@ -48,7 +48,7 @@ I really think when first learning to code, having immediate visual feedback of 
 
 My Muay Thai Teacher has a very simple and effective approach on teaching. “Learn and master the basics. If you do, you’re unstoppable.” OK he did not say unstoppable but the point is that if you master the basics you can do your life’s work with just that. Also, IF you need/want to learn more complicated stuff, it will be very much simpler to do so. So in coding, that is my main focus. To master the basics. After all, frameworks come and go. Thinking clearly, designing systems, problem solving, etc will always be in the center of coding.
 
-In the beginning, the main strategy is to learn what is needed for the current project. Sometimes overshoot for more advanced stuff. If it sticks, keep doing more advanced it. If not, fall back.
+In the beginning, the main strategy is to learn what is needed for the current project. Sometimes overshoot for more advanced stuff. If it sticks, keep doing more advanced. If not, fall back.
 
   
   <h2>Html, Css, Javascript & APIs</h2>
