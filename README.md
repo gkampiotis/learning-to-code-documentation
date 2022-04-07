@@ -34,7 +34,7 @@ Next, I finally jumped to P5js.
 
 ![Screenshot 2022-03-08 at 19-13-44 Screenshot](https://user-images.githubusercontent.com/34453848/162249675-0f76dba3-0390-409b-8120-603f35d73ea5.png)
 
-At first, to get familiar, I did the same style of generative projects as I did with Processing. Next, I found the project (NAG)[nag.iap.de] and it was the perfect project to replicate. So I did that. 
+At first, to get familiar, I did the same style of generative projects as I did with Processing. Next, I found the project [NAG](nag.iap.de) and it was the perfect project to replicate. So I did that. 
 
 Art generator is a project that you can input words, and get an artistic picture. The way this happens is that it establishes a connection with [Unsplash](https://unsplash.com/) via their API. Search for the input words and randomly pick and fetch 4 images from the results. Then with some controlled randomness a new composition appears on-screen. For example the image above is the result of the query “order chaos”.  
 There is room for a lot more on this project but I decided not to continue with it since the original is so much I better. Plus, I just wanted to start learning about APIs.
