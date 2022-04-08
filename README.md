@@ -11,7 +11,7 @@ This is the documentation of the process of me learning to build stuff on the in
  
   <h2>First Steps. Having fun is required.</h2>
   
-I started with [Processing](https://processing.org/) , a Java-based framework. Processing is suitable for digital media creations. At first I started learning the basics (variables, functions, etc). I followed the tutorials from [fun programming](https://funprogramming.org/) which is well made and easy to follow along. First few weeks I was making simple drawings and mini-animations of basic shapes or text.
+I started with [Processing](https://processing.org/), a Java-based framework. Processing is suitable for digital media creations. At first I started learning the basics (variables, functions, etc). I followed the tutorials from [fun programming](https://funprogramming.org/) which is well made and easy to follow along. First few weeks I was making simple drawings and mini-animations of basic shapes or text.
 
 ![Untitled design](https://user-images.githubusercontent.com/34453848/162248841-3ab4999d-0a3b-48d4-b6d2-bc1097651054.gif)
 
@@ -23,7 +23,7 @@ I also knew about [P5js](p5js.org/) which essentially is Processing using JavaSc
   
 After the first steps of learning how to code, the next step is to find good and suitable challenges. Building stuff is the way to learn.
 
-Still on Processing I made few mini-games. The challenge making them was that in games things get complicated VERY fast. Since I didn’t know how to translate physics (bouncing, collision detection, etc) into code, I had to find the simplest ways to make it work. For example, for collision detection, I thought that the simplest way to know if two objects collide is to check for pixel colours. For example if cyan is on top of black then the objects collide.
+Still on Processing I made few mini-games. The challenge making them was that in games things get complicated VERY fast. Since I didn’t know how to translate physics (bouncing, collision detection, etc) into code, I had to find the simplest ways to make it work. For collision detection, I thought that the simplest way to know if two objects collide is to check for pixel colours. For example if cyan is on top of black then the objects collide.
 
 <img width="241" alt="image" src="https://user-images.githubusercontent.com/34453848/162249400-37a078b2-0a8e-4f90-9c88-bf1041fb687c.png">
 
@@ -37,21 +37,21 @@ Next, I finally jumped to P5js.
 At first, to get familiar, I did the same style of generative projects as I did with Processing. Next, I found the project [NAG](nag.iap.de) and it was the perfect project to replicate. So I did that. 
 
 Art generator is a project that you can input words, and get an artistic picture. The way this happens is that it establishes a connection with [Unsplash](https://unsplash.com/) via their API. Search for the input words and randomly pick and fetch 4 images from the results. Then with some controlled randomness a new composition appears on-screen. For example the image above is the result of the query “ordered chaos”.  
-There is room for a lot more on this project but I decided not to continue with it since the original is so much I better. Plus, I just wanted to start learning about APIs.
+There is room for a lot more on this project but I decided not to continue with it since the original is so much I better. Plus, I wanted to start learning about APIs.
 
-Next project is a chrome extension that helps you meditate. It’s a mini-game that you chant to move the character (a brain) to a certain point on screen. 
+Next project was a chrome extension that helps you meditate. It’s a mini-game that you chant to move the character (a brain) to a certain point on screen. (add photo)
 
   
   <h2>Why and how</h2>
   
 I really think when first learning to code, having immediate visual feedback of what is that you are building, is extremely beneficial. My desire to learn to code was about building tools that are useful. That is chrome extensions, simple solutions to  complicated services (see twitter post scheduler/manager). But, since I also have this artistic desire to create visual and auditory things, P5js is an amazing tool to learn.
 
-My Muay Thai Teacher has a very simple and effective approach on teaching. “Learn and master the basics. If you do, you’re unstoppable.” OK he did not say unstoppable but the point is that if you master the basics you can do your life’s work with just that. Also, IF you need/want to learn more complicated stuff, it will be very much simpler to do so. So in coding, that is my main focus. To master the basics. After all, frameworks come and go. Thinking clearly, designing systems, problem solving, etc will always be in the center of coding.
+My Muay Thai Teacher has a very simple and effective approach on teaching. “Learn and master the basics. If you do, you’re unstoppable.” OK he did not say unstoppable but the point is that if you master the basics you can do your life’s work with just that. Also, IF you need/want to learn more complicated stuff, it will be much simpler to do so. So in coding, that is my main focus. To master the basics. After all, frameworks come and go. Thinking clearly, designing systems, problem solving, etc will always be in the center of coding.
 
-In the beginning, the main strategy is to learn what is needed for the current project. Sometimes overshoot for more advanced stuff. If it sticks, keep doing more advanced. If not, fall back.
+In the beginning, the main strategy is to learn what is needed for the current project. Sometimes overshoot for more advanced stuff. If it sticks, keep doing more. If not, fall back.
 
   
-  <h2>Html, Css, Javascript & APIs</h2>
+  <h2>HTML, CSS, Javascript & APIs</h2>
   
 The third month I decided to start building browser applications. Hello HTML, CSS. Not much to say here, from the beginning I can see that “nobody likes you CSS” :D 
 
@@ -61,9 +61,9 @@ Then, I wanted to store data so I can use my to-do list in everyday life. I foun
   <h2>Three months later</h2>
 So the three month period is over. The goal was to have the todo list completed by now. It’s almost there, I was able to make it read and write data from a dedicated Google Sheet but I wasn’t able to make it delete tasks. The end of the month has arrived and the app is not complete. I’m a little disappointed but it is what it is. I spent a whole week just for the Google API interaction. Since time is up, I decided to pause this project.
 
-My brother is an artist and we decided he needs to have a portfolio website. So my next project is that. The learning objective is to get more familiar with HTML, CSS, vanillaJS, and deploying. 
+My brother is an artist and we decided he needs a portfolio website. So my next project is that. The learning objective is to get more familiar with HTML, CSS, vanillaJS, and deploying. 
 
-For the next month my projects are 1) brother’s portfolio, 2) personal website, 3) Lorem Descriptium (a fun project I will link later). I will also make two blog post about the way I searched and learned about the things I needed to learn. I've found that almost all people when are teaching they start doing stuff and explain as they go. But I believe the proper way is to give a map of what the finished project is, and start building on top of that. That way people learning already have an idea of what is needed.
+For the next month my projects are 1) brother’s portfolio, 2) personal website, 3) Lorem Descriptium (a fun project I will link later). I will also make two blog post about the way I searched and learned about the things I needed to learn. I've found that almost all people when teaching they start doing stuff and explain as they go. But I believe the proper way is to give a map of what the finished project is, and start building on top of that. That way people learning already have an idea of what is needed.
 
   
   <h2>Conclusion</h2>
