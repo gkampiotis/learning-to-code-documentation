@@ -74,7 +74,7 @@ All in all, I’m doing progress faster than I expected. I have no delusions tha
 When looking to learn a new tool, start with the information created by the people that made the tool. That is documentation, tutorials, their YouTube channel. And then look for tutorials from other people. Not the other way around.
 
 links:
-[fun programming] (https://funprogramming.org/)
-[Processing] (https://processing.org/)
+[fun programming](https://funprogramming.org/)
+[Processing](https://processing.org/)
 (add link to projects I made)
   
