@@ -54,7 +54,7 @@ In the beginning, the main strategy is to learn what is needed for the current p
   
 The third month I decided to start building browser applications. Hello HTML, CSS. Not much to say here, from the beginning I can see that “nobody likes you CSS” :D 
 
-At first, I created a simple landing page about me. Then… a to-do list. (add picture of todo list)
+At first, I created a simple landing page about me. Then… a to-do list.
 Then, I wanted to store data so I can use my to-do list in everyday life. I found about localServer. Cool, but what about saving data remotely so I can access them from different instances (laptop, mobile, etc). I know that databases get complicated really fast so I wanted a simpler solution. How about storing my data to Google Sheets, GitHub, Notion? I can see all the security issues and all that but keep in mind these are learning experiments. I went with Google Sheets since I want to get familiar with their API. Hello, NodeJS.
 
   <h2>Three months later</h2>
