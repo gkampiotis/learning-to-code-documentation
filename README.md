@@ -25,9 +25,9 @@ After the first steps of learning how to code, the next step is to find good and
 
 Still on Processing I made few mini-games. The challenge making them was that in games things get complicated VERY fast. Since I didn’t know how to translate physics (bouncing, collision detection, etc) into code, I had to find the simplest ways to make it work. For collision detection, I thought that the simplest way to know if two objects collide is to check for pixel colours. For example if cyan is on top of black then the objects collide.
 
-<img src="https://user-images.githubusercontent.com/34453848/163529269-6daa4f85-cebd-4daf-9bbe-f537b7e23fd6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/34453848/163529269-6daa4f85-cebd-4daf-9bbe-f537b7e23fd6.gif" width="250">
 
-<img src="https://user-images.githubusercontent.com/34453848/163529279-1ca267df-990d-46c0-bcda-e28734805c3f.gif" width="100">
+<img src="https://user-images.githubusercontent.com/34453848/163529279-1ca267df-990d-46c0-bcda-e28734805c3f.gif" width="250">
 
 Next, I finally jumped to P5js.
 
