@@ -66,7 +66,6 @@ For the next month my projects are 1) brother’s portfolio, 2) personal website
 
 (addition from my futures self)<br>
 [My brothers portfolio website](https://theodorekampiotis.com/)<br>
-
 Took me about 4 days to create. It is mostly code I grabbed from multiple tutorials and modified for my needs.
 
   
