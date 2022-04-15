@@ -77,8 +77,9 @@ When looking to learn a new tool, start with the information created by the peop
 
 <h4>links in article:</h4>
 [fun programming](https://funprogramming.org/)<br>
+[fun programming](https://funprogramming.org/)<br>
 [Processing](https://processing.org/)<br>
-[P5js](p5js.org/)
-[NAG](nag.iap.de)
-[Unsplash](https://unsplash.com/)
+[P5js](p5js.org/)<br>
+[NAG](nag.iap.de)<br>
+[Unsplash](https://unsplash.com/)<br>
 [Dunning-Kruger effect](https://www.google.com/search?client=firefox-b-d&q=Dunning-Kruger+effect)
