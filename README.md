@@ -64,7 +64,8 @@ My brother is an artist and we decided he needs a portfolio website. So my next 
 
 For the next month my projects are 1) brother’s portfolio, 2) personal website, 3) Lorem Descriptium (a fun project I will link later). I will also make two blog post about the way I searched and learned about the things I needed to learn. I've found that almost all people when teaching they start doing stuff and explain as they go. But I believe the proper way is to give a map of what the finished project is, and start building on top of that. That way learners already have an idea of what is needed.<br>
 
-[My brothers portfolio website](https://theodorekampiotis.com/]<br>
+(addition from my futures self)<br>
+[My brothers portfolio website](https://theodorekampiotis.com/)<br>
 
 Took me about 4 days to create. It is mostly code I grabbed from multiple tutorials and modified for my needs.
 
