@@ -74,7 +74,8 @@ When looking to learn a new tool, start with the information created by the peop
 <br>
 <br>
 <br>
-**List of links in article:**<br>
+<h3>List of links in article</h3>
+
 [fun programming](https://funprogramming.org/)<br>
 [Processing](https://processing.org/)<br>
 [P5js](p5js.org/)<br>
