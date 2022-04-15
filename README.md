@@ -74,8 +74,6 @@ When looking to learn a new tool, start with the information created by the peop
 
 
 
-
-<h2>Appendix</h2>
 List of links in article:<br>
 [fun programming](https://funprogramming.org/)<br>
 [Processing](https://processing.org/)<br>
