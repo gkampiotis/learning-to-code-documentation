@@ -66,7 +66,7 @@ For the next month my projects are 1) brother’s portfolio, 2) personal website
 
 (addition from my future self)<br>
 [My brother's portfolio website](https://theodorekampiotis.com/)<br>
-Took me about 4 days to create. It is mostly code I grabbed from multiple tutorials and modified for my needs.
+Took me about 4 days to create. It is mostly code I grabbed from multiple tutorials and modified for my needs. I will also create an article on how I searched about what was needed with addition of my commentary on the tutorials used.
 
   
   <h2>Conclusion</h2>
@@ -90,4 +90,4 @@ When looking to learn a new tool, start with the information created by the peop
 [NAG](nag.iap.de)<br>
 [Unsplash](https://unsplash.com/)<br>
 [Dunning-Kruger effect](https://www.google.com/search?client=firefox-b-d&q=Dunning-Kruger+effect)<br>
-[My brothers portfolio website](https://theodorekampiotis.com/)
+[My brother's portfolio website](https://theodorekampiotis.com/)
