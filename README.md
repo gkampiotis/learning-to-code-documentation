@@ -38,7 +38,7 @@ At first, to get familiar, I did the same style of generative projects as I did 
 Art generator is a project that you can input words, and get an artistic picture. The way this happens is that it establishes a connection with [Unsplash](https://unsplash.com/) via their API. Search for the input words and randomly pick and fetch 4 images from the results. Then with some controlled randomness a new composition appears on-screen. For example the image above is the result of the query “ordered chaos”.  
 There is room for a lot more on this project but I decided not to continue with it since the original is so much better. Plus, I wanted to start learning about APIs.
 
-Next project was a chrome extension that helps you meditate. It’s a mini-game that you chant to move the character (a brain) to a certain point on screen. (add photo)
+Next project was a chrome extension that helps you meditate. It’s a mini-game that you chant (microphone audio detection) to move the character (a brain) to a certain point on screen.
 
   
   <h2>Why and how</h2>
