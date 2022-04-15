@@ -68,12 +68,13 @@ For the next month my projects are 1) brother’s portfolio, 2) personal website
   <h2>Conclusion</h2>
   
 All in all, I’m doing progress faster than I expected. I have no delusions that I’m already a coding Jedi (gotcha [Dunning-Kruger effect](https://www.google.com/search?client=firefox-b-d&q=Dunning-Kruger+effect)) but progress is made and the streak of daily coding is not broken. I’m pleased.
-<br>
-<br>
-<br>
-<br>
+
   <h3>P.S.</h3>
 When looking to learn a new tool, start with the information created by the people that made the tool. That is documentation, tutorials, their YouTube channel. And then look for tutorials from other people. Not the other way around.
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
