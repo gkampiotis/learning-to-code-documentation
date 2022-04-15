@@ -62,7 +62,7 @@ So the three month period is over. The goal was to have the todo list completed 
 
 My brother is an artist and we decided he needs a portfolio website. So my next project is that. The learning objective is to get more familiar with HTML, CSS, vanillaJS, and deploying. 
 
-For the next month my projects are 1) brother’s portfolio, 2) personal website, 3) Lorem Descriptium (a fun project I will link later). I will also make two blog post about the way I searched and learned about the things I needed to learn. I've found that almost all people when teaching they start doing stuff and explain as they go. But I believe the proper way is to give a map of what the finished project is, and start building on top of that. That way people learning already have an idea of what is needed.
+For the next month my projects are 1) brother’s portfolio, 2) personal website, 3) Lorem Descriptium (a fun project I will link later). I will also make two blog post about the way I searched and learned about the things I needed to learn. I've found that almost all people when teaching they start doing stuff and explain as they go. But I believe the proper way is to give a map of what the finished project is, and start building on top of that. That way learners already have an idea of what is needed.
 
   
   <h2>Conclusion</h2>
