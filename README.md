@@ -82,7 +82,7 @@ When looking to learn a new tool, start with the information created by the peop
 <br>
 <br>
 <br>
-<h3>List of links in article</h3>
+<h4>List of links in the article</h4>
 
 [Fun Programming](https://funprogramming.org/)<br>
 [Processing](https://processing.org/)<br>
