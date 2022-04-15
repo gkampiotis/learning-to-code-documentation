@@ -6,10 +6,10 @@ Progress report on my daily commitment of learning to code
 
 
 
-This is the documentation of the process of me learning to build stuff on the internet. I had no knowledge of coding so I started from the very basics.
+This is the documentation (first three months) of the process of me learning to build stuff on the internet. I had no knowledge of coding so I started from the very basics.
  
  
-  <h2>First Steps. Having fun is required.</h2>
+  <h2>First Steps. Having fun is required</h2>
   
 I started with [Processing](https://processing.org/), a Java-based framework. Processing is suitable for digital media creations. At first I started learning the basics (variables, functions, etc). I followed the tutorials from [fun programming](https://funprogramming.org/) which is well made and easy to follow along. First few weeks I was making simple drawings and mini-animations of basic shapes or text.
 
@@ -19,7 +19,7 @@ I started with [Processing](https://processing.org/), a Java-based framework. Pr
 I also knew about [P5js](p5js.org/) which essentially is Processing using JavaScript. Problem was that I had to setup my own code editor, local servers and all that. Since learning to code is in itself complicated, I decided to stick with Processing. Download their editor, write code, press play, boom.
 
   
-  <h2>Start building stuff.</h2>
+  <h2>Start building stuff</h2>
   
 After the first steps of learning how to code, the next step is to find good and suitable challenges. Building stuff is the way to learn.
 
